@@ -1,5 +1,5 @@
 
-#### Not Familiar with Git?
-run npm install
-run npm start
-check localhost:8080
+#### Note
+1. run npm install
+2. run npm start
+3. check localhost:8080
