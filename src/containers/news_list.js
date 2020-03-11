@@ -22,6 +22,7 @@ class NewsList extends Component {
             </tr>
           </thead>
           <tbody>
+             {/* little time so just write simple code  */}
             {news.articles.map((item, index)=>{
                return (
                   <tr key={index}>
